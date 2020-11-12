@@ -2,7 +2,7 @@
 
 ## Instructions
 
-### Task 1: Project Setup 
+### Task 1: Project Setup-1
 
 - **Fork** this repository, then clone your fork.
 - Run `npm install` to download dependencies.
